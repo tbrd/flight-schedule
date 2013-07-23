@@ -15,11 +15,13 @@ bower install --save flight-schedule
 Initialize & specify tick interval
 
 ```javascript
-var schedule = require('lib/schedule.js');
+var schedule = require('schedule');
 schedule.attachTo(document, {
   tickInterval: 10 // seconds
 });
 ```
+
+Note that the path to schedule can be configured using require.config paths or equivalent.
 
 Listen for tick events
 
