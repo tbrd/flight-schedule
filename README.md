@@ -1,6 +1,7 @@
 # flight-schedule
 
-[![Build Status](https://secure.travis-ci.org/<username>/flight-schedule.png)](http://travis-ci.org/<username>/flight-schedule)
+[![Build 
+Status](https://secure.travis-ci.org/tbrd/flight-schedule.png)](http://travis-ci.org/tbrd/flight-schedule)
 
 A [Flight](https://github.com/twitter/flight) component for scheduling periodic events
 
